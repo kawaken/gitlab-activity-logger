@@ -1,0 +1,2 @@
+gom "github.com/xanzy/go-gitlab"
+gom "gopkg.in/alecthomas/kingpin.v2"
